@@ -1,0 +1,16 @@
+.rodape{
+    background-color: transparent;
+    margin-top: 5%;
+    background-size: cover;
+    display: flex;
+    justify-content: space-around;
+}
+
+.rodape p{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: black;
+    font-weight: bold;
+    font-size: 16px;
+}
